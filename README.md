@@ -17,10 +17,14 @@ Spartifical provided valuable guidance throughout the project, ensuring the adop
 METHODS
 
 During the course of this project, several skills were employed to effectively solve the problem at hand. These skills include:
+
 -Data preprocessing and feature engineering techniques to prepare the dataset for machine learning algorithms.
+
 -Implementation and evaluation of the K-Nearest Neighbors (KNN) model. KNN is a non-parametric algorithm used for both classification and regression tasks, 
 where predictions are made based on the similarity of the new instance to its neighboring data points.
+
 -Training the KNN model twice, once on the training dataset and later on the testing dataset, to validate its performance and assess generalization.
+
 -Utilization of the Decision Tree algorithm, a versatile and interpretable machine learning model that builds a tree-like structure to make decisions based on feature conditions.
 
 CONCLUSION
